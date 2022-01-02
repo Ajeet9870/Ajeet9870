@@ -1,9 +1,9 @@
-### Hellow,I am Ajeet 👋
+###<h1> Hellow,I am Ajeet 👋</h1>
 
 
-**Ajeet9870/Ajeet9870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Ajeet9870/Ajeet9870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...Portfolio
 - 🌱 I’m currently learning ...Web Development
